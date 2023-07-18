@@ -33,7 +33,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Database](https://img.shields.io/badge/-Database%20-05122A?style=flat&logo=Database)&nbsp;
+![Database](https://img.shields.io/badge/-Database%20-05122A?style=flat&logo=DataBase)&nbsp;
 ![Algorithms](https://img.shields.io/badge/-Algorithms%20-05122A?style=flat&logo=Algorithms)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 ![Data Structure](https://img.shields.io/badge/-Data%20Structure%20-05122A?style=flat&logo=Data-Structure)&nbsp;
