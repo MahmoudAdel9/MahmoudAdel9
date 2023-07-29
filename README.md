@@ -26,25 +26,22 @@
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
 
-### 🛠 &nbsp;Tech Stack
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Database](https://img.shields.io/badge/-Database%20-05122A?style=flat&logo=DataBase)&nbsp;
-![Algorithms](https://img.shields.io/badge/-Algorithms%20-05122A?style=flat&logo=Algorithms)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
-![Data Structure](https://img.shields.io/badge/-Data%20Structure%20-05122A?style=flat&logo=Data-Structure)&nbsp;
-![OOP](https://img.shields.io/badge/-OOP%20-05122A?style=flat&logo=OOP)&nbsp;
+### 🛠 &nbsp;My Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,git,github,ts,vscode,java)](https://skillicons.dev)
+
 
 <br>
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudadel9)
+
+
+<br>
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
+
 
 ### I’m currently learning : 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+
 
